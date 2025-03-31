@@ -21,7 +21,7 @@ Major rock formations include [West and East Mitten Buttes](image/zoomto/675,518
 
 ## Geography and geology
 
-`map #map location=Q192017,4 caption="Monument Valley" marker right box-shadow`
+`map #map location=32.88577523645252,-79.98488203287089,4 caption="Charleston" marker right box-shadow`
 - Q118841
 - Q777183
 - Q223969
